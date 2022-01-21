@@ -1,0 +1,25 @@
+GIT Commands
+
+1. git init -> to create existing folder/project to a new Git repository.
+
+2. git add . -> it is used to add or stash all the current files to the repository.
+
+3. git commit -m "commit message" -> it commits the stashed changes to the repository.
+
+4. git remote add origin git_repo_url -> to link the remote repository to the local
+
+5. git push origin branch_name -> to push the commited changes to the repository.
+
+6. git branch -> to check the current working branch
+
+7. git checkout -b branch_name -> creating new branch 
+
+8. git checkout branch_name -> switch between branches
+
+9. git pull -> to pull the files/code a branch to local repository or a different branch.
+
+10. git merge branch_name -> merge current branch to parent or another branch
+
+11. git status -> to check the status of files in current branch
+
+12. git log -> to check all the commit logs  
